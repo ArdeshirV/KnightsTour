@@ -1,4 +1,4 @@
-# Knights Tour
+# Knight's Tour
 <img src="https://raw.githubusercontent.com/ArdeshirV/KnightsTour/main/img/KnightsTour.jpg" width="90%" alt="Knight's tour">
 <br/>
 Knight's tour is a classic computer problem; Here I provided my very own method to solve this classic problem with black-box approach. I developed this algorithm when I was in high school. Maybe it's not the best method to solve this problem but it's mine!
