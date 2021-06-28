@@ -3,7 +3,6 @@ D:\Documents\Projects\0Projects From Windows\C#\KnightsTour\bin\Debug\KnightsTou
 D:\Documents\Projects\0Projects From Windows\C#\KnightsTour\bin\Debug\KnightsTour.pdb
 D:\Documents\Projects\0Projects From Windows\C#\KnightsTour\bin\Debug\ArdeshirV.Forms.dll
 D:\Documents\Projects\0Projects From Windows\C#\KnightsTour\bin\Debug\ArdeshirV.Tools.QrCode.dll
-D:\Documents\Projects\0Projects From Windows\C#\KnightsTour\bin\Debug\ArdeshirV.Forms.pdb
 D:\Documents\Projects\0Projects From Windows\C#\KnightsTour\obj\Debug\ResolveAssemblyReference.cache
 D:\Documents\Projects\0Projects From Windows\C#\KnightsTour\obj\Debug\ArdeshirV.Applications.KnightsTour.Chess_Board.resources
 D:\Documents\Projects\0Projects From Windows\C#\KnightsTour\obj\Debug\ArdeshirV.Applications.KnightsTour.FormMain.resources
