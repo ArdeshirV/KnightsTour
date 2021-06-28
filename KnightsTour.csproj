@@ -71,12 +71,6 @@
     <FileAlignment>4096</FileAlignment>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="ArdeshirV.Forms">
-      <HintPath>..\..\..\0Library\ArdeshirV.Forms.dll</HintPath>
-    </Reference>
-    <Reference Include="ArdeshirV.Tools.QrCode">
-      <HintPath>..\..\..\0Library\ArdeshirV.Tools.QrCode.dll</HintPath>
-    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Drawing" />
     <Reference Include="System.Windows.Forms" />
