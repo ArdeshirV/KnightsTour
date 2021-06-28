@@ -2,7 +2,7 @@
 Microsoft Visual Studio Solution File, Format Version 9.00
 # Visual Studio 2005
 # SharpDevelop 5.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArdeshirV.Applications.KnightsTour", "ArdeshirV.Applications.KnightsTour.csproj", "{272A143C-2DDE-4E7D-A9EF-CE3210BBCE46}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KnightsTour", "KnightsTour.csproj", "{272A143C-2DDE-4E7D-A9EF-CE3210BBCE46}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

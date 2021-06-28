@@ -18,7 +18,7 @@ namespace ArdeshirV.Applications.KnightsTour
         #region Variables
         
         const string _stringEmail = "ArdeshirV@protonmail.com";
-        const string _stringWebsite = "https://ArdeshirV.github.com/KnightsTour";
+        const string _stringWebsite = "https://ardeshirv.github.io/KnightsTour/";
 
         #endregion
         //-------------------------------------------------------------------------------
@@ -92,7 +92,7 @@ namespace ArdeshirV.Applications.KnightsTour
 			
 			const string stringCreditDesc = 
 @"ArdeshirV is creator and developer of ""Knight's Tour""
-Knight's Tour: https://ardeshirv.github.io/KnightsTour
+Knight's Tour: https://ardeshirv.github.io/KnightsTour/
 Github: https://github.com/ArdeshirV/KnightsTour
 Email: ArdeshirV@protonmail.com";
 			Credits[] credits = new Credits[] {
