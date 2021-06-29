@@ -18,7 +18,7 @@ namespace ArdeshirV.Applications.KnightsTour
         #region Variables
         
         const string _stringEmail = "ArdeshirV@protonmail.com";
-        const string _stringWebsite = "https://ardeshirv.github.io/KnightsTour/";
+        const string _stringWebsite = "https://ArdeshirV.github.io/KnightsTour/";
 
         #endregion
         //-------------------------------------------------------------------------------
@@ -83,7 +83,8 @@ namespace ArdeshirV.Applications.KnightsTour
         
 		void M_btnFormAboutClick(object sender, EventArgs e)
 		{
-			string stringAssemblyProductName = new AssemblyAttributeAccessors(this).AssemblyProduct;
+			string stringAssemblyProductName = // Application.ProductName
+				new AssemblyAttributeAccessors(this).AssemblyProduct;
 
 			Donations[] donations = new Donations[] {
 				new Donations( 
