@@ -30,7 +30,7 @@ namespace ArdeshirV.Applications.KnightsTour
             m_btnSolveStepByStep.Tag = true;
             SplashImage = Resources.KnightOfChess;
             StartPosition = FormStartPosition.CenterScreen;
-            m_lstAngels_SelectedIndexChanged(m_lstAngels, null);            
+            m_lstAngels_SelectedIndexChanged(m_lstAngels, null);
         }
 
         #endregion
