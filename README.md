@@ -6,8 +6,8 @@ The Knight's tour is a classic computer problem. Here, I provide my very own met
 <br/>
 <img src="https://raw.githubusercontent.com/ArdeshirV/KnightsTour/main/img/AboutKnightsTour.jpg" width="90%" alt="About knight's tour">
 <br/>
-<footer>
+<div>
     <p style="margin: auto;">
          Copyright&copy; 2004-2021 <a href="mailto:ArdeshirV@protonmail.com">ArdeshirV@protonmail.com</a>, Licensed under GPL<sup>v3+</sup>
     <p/>
-</footer>
+</div>
